@@ -1,0 +1,15 @@
+#tab_plugin_defectdetection div.mjpg_container {
+	display: inline;
+}
+
+
+#tab_plugin_defectdetection.fullscreen{
+    z-index: 9999; 
+    width: 100%; 
+    height: 100%; 
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+	background-color: #FFFFFF;
+ }
+
